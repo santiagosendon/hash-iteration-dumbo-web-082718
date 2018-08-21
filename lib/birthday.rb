@@ -12,7 +12,7 @@ def happy_birthday(birthday_kids)
     "Amanda" => 27
 }
 
- birthday_kids.each { |kids_name, age|
+ birthday_kids.each { |kids_name, age|}
  puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
 
 
